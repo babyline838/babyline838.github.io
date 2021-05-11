@@ -2,14 +2,13 @@
 layout: post
 title: WP for smart-cryptooo
 ---
-# WP for smart-cryptooo
 萌新瑟瑟发抖
 
 Anyway, 鉴于陆续有师傅来问exp，干脆写个wp吧。
 
 https://archive.ooo/c/smart-cryptooo/420/
 
-![image-20210512011142020](smart-crypto.assets\image-20210512011142020.png)
+![image-20210512011142020](/assets/img/smart-crypto.assets/image-20210512011142020.png)
 
 比赛的时候只有这两个文件，当然存档以后为了保证原网页可用性，当时网页的存档也提供了一份在archive里。
 
@@ -52,7 +51,7 @@ $C=[A~|~B]\left [\begin{matrix}m\\k\end{matrix} \right ]+bias$
 
 具体如何反算，可以调用现成的最小二乘法，我是翻了一遍scipy的文档没找到向量形式的优化包于是用torch搓了一个梯度下降。
 
-![image-20210512015614543](smart-crypto.assets/image-20210512015614543.png)
+![image-20210512015614543](/assets/img/smart-crypto.assets/image-20210512015614543.png)
 
 
 
