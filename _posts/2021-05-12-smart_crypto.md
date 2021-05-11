@@ -32,11 +32,11 @@ https://github.com/blatchley/defcon-challenge-notes#smart-crypto
 
 队里的dalao提出了关键的猜想：这个模型实际上是线性的(作为老丹师至今无法相信)：
 
-$C=[A~|~B]\left [\begin{matrix}m\\k\end{matrix} \right ]$
+$C=[A\ ,\ B]\left [\begin{matrix}m\\k\end{matrix} \right ]$
 
 当然模型里可能还有奇奇怪怪的bias项：
 
-$C=[A~|~B]\left [\begin{matrix}m\\k\end{matrix} \right ]+bias$
+$C=[A\ ,\ B]\left [\begin{matrix}m\\k\end{matrix} \right ]+bias$
 
 于是只要根据已知的明文和密文去反解$A$和$B$ 就可以了。
 
