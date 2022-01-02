@@ -1,3 +1,6 @@
 theme: jekyll-theme-slate
 google_analytics: UA-216175060-1
 # markdown: kramdown
+url: "https://babyline838.github.io"
+plugins:
+  - jekyll-sitemap
