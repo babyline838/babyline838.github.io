@@ -27,4 +27,4 @@ title: DefCon 游记
 
 师傅们Carry了冠军，师傅们TQL
 
-卑微Crypto选手在线求秋招收留。
+~~卑微Crypto选手在线求秋招收留。~~
